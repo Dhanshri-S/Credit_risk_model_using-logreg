@@ -1,4 +1,4 @@
-# Credit_risk_model_using-logreg
+# Credit_risk_model_using logistic regression
 
 #### The dataset has following variables:
 ######
